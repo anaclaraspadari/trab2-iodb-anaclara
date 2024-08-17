@@ -15,7 +15,7 @@ public class ConexaoPostgreSQL {
         this.host = "localhost";
         this.port = "5432";
         this.username = "postgres";
-        this.password = "f00b4r777";
+        this.password = "";
         this.dbname = "googlekeeptab";
     }
 

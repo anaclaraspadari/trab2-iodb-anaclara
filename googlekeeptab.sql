@@ -1,6 +1,6 @@
 drop database if exists googlekeeptab;
 
-create table googlekeeptab;
+create database googlekeeptab;
 \c googlekeeptab;
 
 create table googlekeep(
